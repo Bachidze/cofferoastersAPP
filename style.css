@@ -11,10 +11,14 @@ body{
     font-family: Fraunces;
 }
 .header1{
-    padding: 32px 24px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 50px;
+    margin-top: -15px;
+    margin-bottom: 40px;
 }
+
+
 
 .coffe-menu{
     margin-top: 35px;
@@ -29,6 +33,10 @@ body{
     top: -500px;
     background-color: white;
     box-shadow: 0 100px 400px white;
+}
+
+.clickcoffe{
+    margin-top: 4px;
 }
 
 a{
@@ -92,6 +100,7 @@ h1{
     width: 300px;
     padding-top: 100px;
     padding-bottom: 24px;
+    font-family: Francis;
 }
 
 .section1 ,p{
@@ -117,6 +126,27 @@ h1{
     word-wrap: break-word;
     background-color: #0E8784;
     cursor: pointer;
+}
+
+.area2 h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.area4 h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.area7 h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.area9 h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .button1:hover{
@@ -249,7 +279,8 @@ h4{
     line-height: 32px;
     word-wrap: break-word;
     text-align: center;
-    padding-bottom: 80pxs;
+    display: flex;
+    justify-content: center;
 }
 
 .margindiv{
@@ -288,6 +319,7 @@ h4{
     margin-bottom: 24px;
 }
 
+
 .list4 p{
     color: #333D4B;
     font-size: 15px;
@@ -295,7 +327,7 @@ h4{
     font-weight: 400;
     line-height: 25px;
     word-wrap: break-word;
-    width: 350px;
+    width: 300px;
 }
 
 .button2{
@@ -356,6 +388,7 @@ footer{
 .footer2 a:hover{
     color: #0E8784;
     transition: 0.8s;
+    transform: scale(1.2);
 }
 
 

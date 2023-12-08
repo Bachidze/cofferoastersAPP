@@ -398,6 +398,7 @@ footer{
 .footer2 a:hover{
     color: #0E8784;
     transition: 0.8s;
+    transform: scale(1.2);
 }
 
 

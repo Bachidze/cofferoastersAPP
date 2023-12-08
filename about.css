@@ -188,6 +188,8 @@ h5{
     margin-top: 80px;
 }
 
+
+
 .black{
     background-color: #2C343E;
     width: 327px;
@@ -200,6 +202,8 @@ h5{
     text-align: center;
     margin-top: 170px;
 }
+
+
 
 .black p{
     color: #FEFCF7;
@@ -272,6 +276,7 @@ footer{
 .footer2 a:hover{
     color: #0E8784;
     transition: 0.8s;
+    transform: scale(1.2);
 }
 
 
